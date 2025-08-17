@@ -16,3 +16,4 @@ HTML Element Inspector – Chrome Extension HTML Element Inspector is a lightwei
 Perfect for web developers, learners, or anyone exploring HTML structure.
 
 Great companion tool while reading code, debugging pages, or learning front-end development.
+
